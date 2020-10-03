@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: be751748995749a46bd2a8d1757ab34a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - night_material: {fileID: 2100000, guid: af13dd64e7e10fb438d137c6a13c3ccc, type: 2}
+  - day_material: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
