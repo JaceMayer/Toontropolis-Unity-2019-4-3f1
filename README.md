@@ -3,7 +3,7 @@ TT2 Toontropolis updated to Unity 2019.4.3f1
 
 # Disclosure
 This is nowhere near complete, and in some places uses completely different code than what was used in the prototype. Its only includes Toontropolis, not any of the minigames.
-This took a long time to get to the point that it was sort of playable. I hope that you all appricate this. With flash player being made EOL, I wanted to help preserve this prototype.
+This took a long time to get to the point that it was sort of playable. I hope that you all appricate this. With the Unity Web Player being made EOL, I wanted to help preserve this prototype.
 
 # Things that do work
 The keyboard infront of the music shop
