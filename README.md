@@ -39,3 +39,5 @@ Utiny Unpacker (used to get scenes and assets)
 K1999 - https://github.com/K1999/Toontown-2.0/tree/master/toontropolis
 
 Insomnia - We couldnt have done this without insomnia
+
+jeeperpretzel - For fixing render/shadow errors! 
