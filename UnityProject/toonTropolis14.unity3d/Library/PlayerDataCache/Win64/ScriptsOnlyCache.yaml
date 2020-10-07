@@ -6,9 +6,11 @@ ScriptsOnlyBuild:
     - DoodleFollowMe
     - DummyPet
     - FunkyGlowingThingsEffect
+    - GagShop
     - MUS_PlayCymbal
     - MusicMgr
     - OwlBehaviorScript
+    - PartyCog
     - PlayerAnimation
     - PlayerCharacter
     - PlayerCollisions
@@ -77,95 +79,97 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11290}
+      Script: {instanceID: 11292}
     - Class: 114
-      Script: {instanceID: 11392}
+      Script: {instanceID: 11394}
     - Class: 114
-      Script: {instanceID: 11396}
+      Script: {instanceID: 11398}
     - Class: 114
-      Script: {instanceID: 11570}
+      Script: {instanceID: 11572}
     - Class: 114
-      Script: {instanceID: 11580}
+      Script: {instanceID: 11582}
     - Class: 114
-      Script: {instanceID: 11602}
+      Script: {instanceID: 11604}
     - Class: 114
-      Script: {instanceID: 11688}
+      Script: {instanceID: 11690}
     - Class: 114
-      Script: {instanceID: 11918}
+      Script: {instanceID: 11920}
     - Class: 114
-      Script: {instanceID: 12042}
+      Script: {instanceID: 12044}
     - Class: 114
-      Script: {instanceID: 12102}
+      Script: {instanceID: 12104}
     - Class: 114
-      Script: {instanceID: 12146}
+      Script: {instanceID: 12148}
     - Class: 114
-      Script: {instanceID: 12254}
+      Script: {instanceID: 12256}
     - Class: 114
-      Script: {instanceID: 12266}
+      Script: {instanceID: 12268}
     - Class: 114
-      Script: {instanceID: 12290}
+      Script: {instanceID: 12292}
     - Class: 114
-      Script: {instanceID: 12522}
+      Script: {instanceID: 12388}
     - Class: 114
-      Script: {instanceID: 12606}
+      Script: {instanceID: 12526}
     - Class: 114
       Script: {instanceID: 12610}
     - Class: 114
-      Script: {instanceID: 12624}
+      Script: {instanceID: 12614}
     - Class: 114
-      Script: {instanceID: 12990}
+      Script: {instanceID: 12628}
     - Class: 114
-      Script: {instanceID: 12998}
+      Script: {instanceID: 12994}
     - Class: 114
-      Script: {instanceID: 41294}
+      Script: {instanceID: 13002}
     - Class: 114
-      Script: {instanceID: 41296}
+      Script: {instanceID: 13086}
     - Class: 114
-      Script: {instanceID: 41298}
+      Script: {instanceID: 38422}
     - Class: 114
-      Script: {instanceID: 41300}
+      Script: {instanceID: 38424}
     - Class: 114
-      Script: {instanceID: 42216}
+      Script: {instanceID: 38426}
     - Class: 114
-      Script: {instanceID: 42238}
+      Script: {instanceID: 38428}
     - Class: 114
-      Script: {instanceID: 42240}
+      Script: {instanceID: 39322}
     - Class: 114
-      Script: {instanceID: 42244}
+      Script: {instanceID: 39344}
     - Class: 114
-      Script: {instanceID: 42276}
+      Script: {instanceID: 39346}
     - Class: 114
-      Script: {instanceID: 42300}
+      Script: {instanceID: 39350}
     - Class: 114
-      Script: {instanceID: 42428}
+      Script: {instanceID: 39384}
     - Class: 114
-      Script: {instanceID: 42430}
+      Script: {instanceID: 39408}
     - Class: 114
-      Script: {instanceID: 42432}
+      Script: {instanceID: 39536}
     - Class: 114
-      Script: {instanceID: 42434}
+      Script: {instanceID: 39538}
     - Class: 114
-      Script: {instanceID: 42466}
+      Script: {instanceID: 39540}
     - Class: 114
-      Script: {instanceID: 42470}
+      Script: {instanceID: 39542}
     - Class: 114
-      Script: {instanceID: 42506}
+      Script: {instanceID: 39574}
     - Class: 114
-      Script: {instanceID: 42538}
+      Script: {instanceID: 39578}
     - Class: 114
-      Script: {instanceID: 42570}
+      Script: {instanceID: 39614}
     - Class: 114
-      Script: {instanceID: 42580}
+      Script: {instanceID: 39646}
     - Class: 114
-      Script: {instanceID: 42582}
+      Script: {instanceID: 39678}
     - Class: 114
-      Script: {instanceID: 42610}
+      Script: {instanceID: 39688}
     - Class: 114
-      Script: {instanceID: 42644}
+      Script: {instanceID: 39690}
     - Class: 114
-      Script: {instanceID: 42646}
+      Script: {instanceID: 39750}
     - Class: 114
-      Script: {instanceID: 42648}
+      Script: {instanceID: 39752}
+    - Class: 114
+      Script: {instanceID: 39754}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -228,15 +232,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11360}
+      Script: {instanceID: 11362}
     - Class: 114
-      Script: {instanceID: 12066}
+      Script: {instanceID: 12068}
     - Class: 114
-      Script: {instanceID: 12256}
+      Script: {instanceID: 12258}
     - Class: 114
-      Script: {instanceID: 12694}
+      Script: {instanceID: 12698}
     - Class: 114
-      Script: {instanceID: 379834}
+      Script: {instanceID: 66088}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -436,7 +440,7 @@ ScriptsOnlyBuild:
     className: AspectRatioFitter
   - hash:
       serializedVersion: 2
-      Hash: 94a5179246aa960d7ba864e891814617
+      Hash: 42457c755adbba36f0df609ed87ea0ee
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: RandomAnim
@@ -568,7 +572,7 @@ ScriptsOnlyBuild:
     className: RemoteTestResultSender
   - hash:
       serializedVersion: 2
-      Hash: 49c1a27c54186b71bab7b3bd9b38d098
+      Hash: f7ba10c5fcef0603989730ac311782dc
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerCollisions
@@ -620,6 +624,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: ff95910fbe7c23eabc5d092d805213d0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GagShop
   - hash:
       serializedVersion: 2
       Hash: 278bbed3ca257a21be578f644af25c0f
@@ -832,6 +842,12 @@ ScriptsOnlyBuild:
     className: StandaloneInputModule
   - hash:
       serializedVersion: 2
+      Hash: f220de164c53232d3bc0f5db8cc5d3c1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PartyCog
+  - hash:
+      serializedVersion: 2
       Hash: aa88ae22474df55295327e4ee99e5a24
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -870,4 +886,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scene/TitleSequence/Scenes/TitleSequence.unity
   - Assets/Scene/Scenes/toonTropolis12.unity
-  playerPath: C:/Users/david/Desktop/TTRop/toonTropolis14.unity3d.exe
+  playerPath: C:/Users/david/Desktop/ttrp/toonTropolis14.unity3d.exe
